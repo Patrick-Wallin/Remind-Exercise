@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_venue_photo_page_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/venue_photo_floating_action_button"
+        style="@style/BookmarkFloatingActionButton" />
+</FrameLayout>

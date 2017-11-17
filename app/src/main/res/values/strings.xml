@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Remind-Exercise</string>
+
+    <string name="loading">Loading...</string>
+    <string name="loading_data">Loading data...</string>
+    <string name="loadingandwait">Loading... Please wait</string>
+
+    <string name="no_internet_connection_title">No Internet Connection</string>
+    <string name="no_internet_connection_message">It looks like your internet connection is off. \n Please turn it on and try again</string>
+    <string name="error_message_title">Error</string>
+
+    <string name="client_id"></string>
+    <string name="client_secret"></string>
+
+    <string name="four_square_api_version">20171028</string>
+    <string name="intent_checkin">checkin</string>
+    <string name="limit_venues">25</string>
+    <string name="limit_venues_photos">50</string>
+    <string name="show_venue_photo">1</string>
+    <string name="base_search_venue_url_address">https://api.foursquare.com/v2/</string>
+
+    <string name="los_angeles">Los Angeles, CA|34.052234,-118.243685</string>
+    <string name="san_francisco">San Francisco, CA|37.774929,-122.419416</string>
+    <string name="austin">Austin, TX|30.267153,-97.743061</string>
+    <string name="nashville">Nashville, TN|36.162664,-86.781602</string>
+    <string name="seattle">Seattle, WA|47.606209,-122.332071</string>
+
+    <string-array name="city_array">
+        <item>@string/austin</item>
+        <item>@string/los_angeles</item>
+        <item>@string/nashville</item>
+        <item>@string/san_francisco</item>
+        <item>@string/seattle</item>
+    </string-array>
+
+    <string name="city_item">cityItem</string>
+    <string name="city_name">cityName</string>
+    <string name="venue_id">venueId</string>
+    <string name="venue_name">venueName</string>
+</resources>
